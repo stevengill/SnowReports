@@ -1,0 +1,289 @@
+/* Common */
+
+body {
+	background: url(../images/ui-background.png) repeat-x #252D31 !important;
+	color: #fff !important;
+	margin:		0px;
+}
+
+.snow-mini-icon {
+	background: url(../images/minicon.png);
+	width: 30px;
+	height: 30px;
+	margin: 12px;
+	margin-left: 16px;
+	display: block;
+	float: left;
+}
+
+.scene {
+}
+
+.extra-large {
+	font-size: 2.1em;
+}
+
+.larger {
+	font-size: 1.2em;
+}
+
+.b {
+	font-weight:bold;
+}
+
+.large {
+	font-size: 1.0em;
+	margin: 0;
+}
+.reg {
+	font-size: 0.75em;
+}
+.small {
+	font-size: 0.55em;
+}
+
+.progress {
+	padding: 20px;
+	text-align: center;
+}
+
+.spacer {
+	padding: 0 8px;
+}
+
+.left {
+	float: left;
+}
+.right {
+	text-align: right;
+}
+.center{
+	text-align: center;
+}
+
+.p28 {
+	padding-left: 40px;
+}
+
+/* Scenes */
+#main, #detail {
+}
+
+/* Common components */
+
+.spinner {
+	margin-top: 8px;
+}
+
+.icon-reload {
+	background: url(../images/reload.png) no-repeat;
+}
+
+
+/* List */
+.palm-row .row-wrapper {
+	background: url(../images/ui-separator.png) repeat-x left bottom !important;
+}
+
+.palm-row.last .row-wrapper, .palm-row.single .row-wrapper {
+	background: none !important;
+}
+
+.divider.black {
+	background: 
+		url(../images/ui-black.png);
+	padding: 0px 23px 2px;
+}
+
+
+.list-item .row-wrapper {
+	padding: 4px 12px 8px 6px;
+}
+
+.list-item.selected {
+	color: #fff;
+}
+
+.open-status {
+	background: url(../images/closed-mini.png) no-repeat 10px 3px;
+	display: block;
+}
+
+.open-status.Open {
+	background-image: url(../images/open-mini.png);
+}
+
+.open-status.Unknown {
+	background-image: url(../images/unknown-mini.png);
+}
+
+.open-status.icon-large {
+	background: url(../images/close64.png) no-repeat top right;
+	min-height: 64px;
+}
+.open-status.icon-large.Open {
+	background: url(../images/open64.png) no-repeat top right;
+}
+.open-status.icon-large.Unknown {
+	background: url(../images/Unknown.png) no-repeat top right;
+}
+
+.large-row {
+}
+
+
+/* Detail View */
+
+#detail #header, #preferences #header {
+	margin: 10px 0;
+	padding: 10px;
+	background: url(../images/ui-black.png);
+}
+
+
+#detail #header.open-status.mini {
+	background: 
+		url(../images/closed-mini.png) no-repeat 10px 11px, 
+		url(../images/ui-black.png) !important;
+	min-height: 24px;
+	min-width: 24px;
+	padding: 7px 10px 11px 40px;
+}
+
+#detail #header.open-status.mini.Open {
+	background: 
+		url(../images/open-mini.png) no-repeat 8px, 
+		url(../images/ui-black.png) !important;
+}
+
+#detail #header.open-status.mini.Unknown {
+	background: 
+		url(../images/unknown-mini.png) no-repeat 8px, 
+		url(../images/ui-black.png) !important;
+}
+
+.detail-view .wrapper {
+}
+
+.detail-view .palm-row {
+}
+
+.palm-row, .palm-row-wrapper {
+	min-height: 10px !important;
+}
+
+
+/* Detail List */
+
+#detail-list .row-wrapper {
+	padding: 6px 12px 10px 12px !important;
+}
+
+#detail-list .left-span {
+	width: 140px;
+	float: left;
+}
+
+.open-status-large {
+	background: url(../images/closed_large.png) no-repeat 0 0;
+	min-height: 48px;
+	min-width: 48px;
+}
+
+.open-status-large.Open {
+	background-image: url(../images/open_large.png);
+}
+
+/* Preferences */
+
+#done-button {
+	position: absolute;
+	width: 150px;
+	left: 85px;
+}
+
+#prefs-list .row-wrapper {
+	padding: 0 12px !important;
+	min-height: 60px !important;
+}
+
+#prefs-list .row-wrapper .left {
+	padding-top: 10px;
+}
+
+.header {
+	width:100%;
+	height:42px;
+	top: 5px;
+	font-size: 0.85em;
+}
+
+.header div {
+	width: 50%;
+}
+
+.header div, .footer div {
+	height:		34px;
+	padding-top:8px;
+	background-repeat:	repeat-x;
+	float:		left;
+}
+
+.footer {
+	margin: 	5px;
+	overflow:	auto;
+	width:		100%;
+	font-size:	0.85em;
+	position:	fixed;
+	bottom:		0px;
+}
+
+.left-end-blue {
+	background-image: url(../images/toggle_blue_left.png);
+	width:		20px; 
+}
+
+.left-end-black {
+	background-image: url(../images/toggle_black_left.png);
+	width:		20px; 
+}
+
+.mid-blue {
+	background-image: url(../images/toggle_blue_mid.png);
+	text-align:	center;
+	background-repeat: repeat-x;
+}
+
+.mid-black {
+	background-image: url(../images/toggle_black_mid.png);
+	text-align:	center;
+	background-repeat: repeat-x;
+}
+
+.right-end-blue {
+	background-image: url(../images/toggle_blue_right.png);
+	width:		20px;
+}
+
+.right-end-black {
+	background-image: url(../images/toggle_black_right.png);
+	width:		20px;
+}
+
+.footer .mid-blue, .footer .mid-black  {
+	padding:	8px 9px 0px;
+}
+
+.back-button {
+	margin-right:10px;
+	width:		42px;
+	height:		42px;
+	float:		right;
+}
+
+.spinner {
+	margin:		5px;
+	width:		32px;
+	height:		32px;
+	float:		right;
+}
