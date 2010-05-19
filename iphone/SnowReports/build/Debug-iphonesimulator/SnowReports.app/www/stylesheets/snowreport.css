@@ -4,7 +4,6 @@ body {
 	background: url(../images/ui-background.png) repeat-x #252D31 !important;
 	color: #fff !important;
 	margin:		0px;
-	font-family: arial,sans-serif;
 }
 
 .snow-mini-icon {
@@ -114,19 +113,12 @@ body {
 	background-image: url(../images/open-mini.png);
 }
 
-.open-status.Unknown {
-	background-image: url(../images/unknown-mini.png);
-}
-
 .open-status.icon-large {
 	background: url(../images/close64.png) no-repeat top right;
 	min-height: 64px;
 }
 .open-status.icon-large.Open {
 	background: url(../images/open64.png) no-repeat top right;
-}
-.open-status.icon-large.Unknown {
-	background: url(../images/Unknown.png) no-repeat top right;
 }
 
 .large-row {
@@ -154,12 +146,6 @@ body {
 #detail #header.open-status.mini.Open {
 	background: 
 		url(../images/open-mini.png) no-repeat 8px, 
-		url(../images/ui-black.png) !important;
-}
-
-#detail #header.open-status.mini.Unknown {
-	background: 
-		url(../images/unknown-mini.png) no-repeat 8px, 
 		url(../images/ui-black.png) !important;
 }
 
@@ -216,7 +202,7 @@ body {
 	width:100%;
 	height:42px;
 	top: 5px;
-	font-size: 0.9em;
+	font-size: 0.85em;
 }
 
 .header div {

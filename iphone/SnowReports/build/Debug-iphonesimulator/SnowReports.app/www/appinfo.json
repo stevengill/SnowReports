@@ -1,0 +1,9 @@
+{
+	"id": "com.palm.snowgap",
+	"version": "1.0.0",
+	"vendor": "Nitobi",
+	"type": "web",
+	"main": "index.html",
+	"title": "SnowGap",
+	"icon": "Icon.png"
+}

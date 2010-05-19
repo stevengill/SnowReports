@@ -1,0 +1,541 @@
+TSnowReports
+v7
+r0
+t295833205.446959
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk
+c000000004B47D7B70000000000000110
+t1262999479
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist
+c000000004ABDB88400000000000000DD
+t1253947524
+s221
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+c000000004ABDB88400000000000001E5
+t1253947524
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004ABDBEB0000000000001ADC0
+t1253949104
+s110016
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004ABDBEAE00000000000000EB
+t1253949102
+s235
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004ABDC857000000000009D7D0
+t1253951575
+s645072
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/AddressBook.framework/Headers/ABAddressBook.h
+c000000004ABDC8510000000000000A8D
+t1253951569
+s2701
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004ABDD32B000000000017ABC0
+t1253954347
+s1551296
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/AddressBookUI.h
+c000000004ABDD31700000000000001D0
+t1253954327
+s464
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004ABDBC2D00000000002E0BF0
+t1253948461
+s3017712
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004ABDBC03000000000000E37C
+t1253948419
+s58236
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004ABDBCDC0000000000290770
+t1253948636
+s2688880
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDBA1300000000005F49B0
+t1253947923
+s6244784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004ABDD17F00000000000853F0
+t1253953919
+s545776
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004ABDD17900000000000001AF
+t1253953913
+s431
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDBDCF0000000000501440
+t1253948879
+s5248064
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDBDA40000000000001355
+t1253948836
+s4949
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004ABDF09400000000001781B0
+t1253961876
+s1540528
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004ABDBE530000000000026080
+t1253949011
+s155776
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004ABDC85900000000001C28C0
+t1253951577
+s1845440
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004ABDBB7700000000000D74C0
+t1253948279
+s881856
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDD0D10000000000000788
+t1253953745
+s1928
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationController.h
+c000000004ABDD0D300000000000018BF
+t1253953747
+s6335
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITabBar.h
+c000000004ABDD0D70000000000000BF1
+t1253953751
+s3057
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIToolbar.h
+c000000004ABDD0D200000000000006D4
+t1253953746
+s1748
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDD2250000000001B3F550
+t1253954085
+s28570960
+
+N/Users/steven97_007/Documents/PhoneGapLib/Classes/Contacts.h
+c000000004B74BAF80000000000000A53
+t1265941240
+s2643
+i<Foundation/Foundation.h>
+i<AddressBook/ABAddressBook.h>
+i<AddressBookUI/AddressBookUI.h>
+i"PhoneGapCommand.h"
+
+N/Users/steven97_007/Documents/PhoneGapLib/Classes/DebugConsole.h
+c000000004B74BAF80000000000000170
+t1265941240
+s368
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"PhoneGapCommand.h"
+
+N/Users/steven97_007/Documents/PhoneGapLib/Classes/JSON/JSON.h
+c000000004B74BAF800000000000008F9
+t1265941240
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/steven97_007/Documents/PhoneGapLib/Classes/Location.h
+c000000004B74BAF80000000000000530
+t1265941240
+s1328
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i"PhoneGapCommand.h"
+
+N/Users/steven97_007/Documents/PhoneGapLib/Classes/PhoneGapCommand.h
+c000000004B74BAF800000000000002ED
+t1265941240
+s749
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/steven97_007/Documents/PhoneGapLib/Classes/PhoneGapDelegate.h
+c000000004BCF8A9300000000000006D8
+t1271892627
+s1752
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<UIKit/UINavigationController.h>
+i"JSON/JSON.h"
+i"Location.h"
+i"Sound.h"
+i"Contacts.h"
+i"DebugConsole.h"
+i"UIControls.h"
+
+N/Users/steven97_007/Documents/PhoneGapLib/Classes/PhoneGapViewController.h
+c000000004BCF8A930000000000000293
+t1271892627
+s659
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/steven97_007/Documents/PhoneGapLib/Classes/Sound.h
+c000000004B74BAF8000000000000060C
+t1265941240
+s1548
+i<Foundation/Foundation.h>
+i<AudioToolbox/AudioServices.h>
+i<AVFoundation/AVFoundation.h>
+i"PhoneGapCommand.h"
+
+N/Users/steven97_007/Documents/PhoneGapLib/Classes/UIControls.h
+c000000004B74BAF8000000000000066A
+t1265941240
+s1642
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<UIKit/UITabBar.h>
+i<UIKit/UIToolbar.h>
+i"PhoneGapCommand.h"
+
+N/Users/steven97_007/Documents/PhoneGapLib/VERSION
+c000000004B74BAF80000000000000005
+t1265941240
+s5
+
+N/Users/steven97_007/Documents/PhoneGapLib/build/Release-iphoneos/libPhoneGapLib.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/Classes/SnowReportsAppDelegate.h
+c000000004BE9F57D0000000000000108
+t1273623933
+s264
+i<UIKit/UIKit.h>
+i"PhoneGapDelegate.h"
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/Classes/SnowReportsAppDelegate.m
+c000000004BF1BCB300000000000007FB
+t1274133683
+s2043
+i"SnowReportsAppDelegate.h"
+i"PhoneGapViewController.h"
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/Default.png
+c000000004BE9F57D0000000000000BAE
+t1273623933
+s2990
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/PhoneGap.plist
+c000000004BE9F57D000000000000027E
+t1273623933
+s638
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/SnowReports_Prefix.pch
+c000000004BE9F57D00000000000000BF
+t1273623933
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app
+t2
+s0
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app.dSYM
+t2
+s0
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/Default.png
+t2
+s0
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/Info.plist
+t2
+s0
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/PhoneGap.plist
+t2
+s0
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/PkgInfo
+t2
+s0
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/ResourceRules.plist
+t2
+s0
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/SnowReports
+t2
+s0
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/VERSION
+t2
+s0
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/icon.png
+t2
+s0
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/www
+t2
+s0
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Objects-normal/armv6/SnowReports.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Objects-normal/armv6/SnowReportsAppDelegate.o
+t2
+s0
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Script-304B58A110DAC018002A0835.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Script-30E9A9A110B758320022D3BA.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports.xcent
+t2
+s0
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/icon.png
+c000000004BE9F57D0000000000000C36
+t1273623933
+s3126
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/main.m
+c000000004BE9F57D000000000000017B
+t1273623933
+s379
+i<UIKit/UIKit.h>
+
+N/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www
+c000000004BF1D5250000000000000198
+t1274139941
+s408
+
+N/Users/steven97_007/Library/MobileDevice/Provisioning Profiles/1CF731CF-64B1-4391-8195-F429942DCBA5.mobileprovision
+c000000004BF1C12900000000000050BE
+t1274134825
+s20670
+
+N/var/folders/cF/cFtMz5aREbSY4oR9L2goHk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnowReports_Prefix-ezynucllcfeqtogfiyfyyimmldth/SnowReports_Prefix.pch.gch
+t2
+s0
+
+NSnowReports-Info.plist
+c000000004BF1D51500000000000005A7
+t1274139925
+s1447
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies295833205#295833205#0(0"0(0#1#0"4300903632#0"0#
+
+CCodeSign /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app
+s295832742.984398
+e295832743.798402
+r1
+xCodeSign
+x/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app
+lSLF07#2@47"CodeSign build/Release-iphoneos/SnowReports.app295832742#295832743#0(0"0(0#0#137"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app4300903632#932"    cd /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv IGNORE_CODESIGN_ALLOCATE_RADAR_7181968 /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign -f -s "iPhone Developer: steven Gill (6XG4G5M4D9)" --resource-rules=/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/ResourceRules.plist --entitlements /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports.xcent /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app0#
+
+CCompileC build/SnowReports.build/Release-iphoneos/SnowReports.build/Objects-normal/armv6/SnowReportsAppDelegate.o /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/Classes/SnowReportsAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295832742.319310
+e295832742.441148
+r1
+xCompileC
+xbuild/SnowReports.build/Release-iphoneos/SnowReports.build/Objects-normal/armv6/SnowReportsAppDelegate.o
+x/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/Classes/SnowReportsAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@139"Compile /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/Classes/SnowReportsAppDelegate.m295832742#295832742#0(0"0(0#0#131"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/Classes/SnowReportsAppDelegate.m4300903632#2602"    cd /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports-generated-files.hmap -I/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports-own-target-headers.hmap -I/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports-all-target-headers.hmap -iquote /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports-project-headers.hmap -F/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos -iquote/Users/steven97_007/Documents/PhoneGapLib/Classes -I/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/include -I/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/DerivedSources/armv6 -I/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/DerivedSources -include /var/folders/cF/cFtMz5aREbSY4oR9L2goHk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnowReports_Prefix-ezynucllcfeqtogfiyfyyimmldth/SnowReports_Prefix.pch -c /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/Classes/SnowReportsAppDelegate.m -o /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Objects-normal/armv6/SnowReportsAppDelegate.o0#
+
+CCompileC build/SnowReports.build/Release-iphoneos/SnowReports.build/Objects-normal/armv6/main.o /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295832742.318176
+e295832742.382538
+r1
+xCompileC
+xbuild/SnowReports.build/Release-iphoneos/SnowReports.build/Objects-normal/armv6/main.o
+x/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/main.m295832742#295832742#0(0"0(0#0#105"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/main.m4300903632#2558"    cd /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports-generated-files.hmap -I/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports-own-target-headers.hmap -I/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports-all-target-headers.hmap -iquote /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports-project-headers.hmap -F/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos -iquote/Users/steven97_007/Documents/PhoneGapLib/Classes -I/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/include -I/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/DerivedSources/armv6 -I/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/DerivedSources -include /var/folders/cF/cFtMz5aREbSY4oR9L2goHk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnowReports_Prefix-ezynucllcfeqtogfiyfyyimmldth/SnowReports_Prefix.pch -c /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/main.m -o /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Objects-normal/armv6/main.o0#
+
+CCopyPNGFile /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/Default.png Default.png
+s295832741.301582
+e295832741.655222
+r1
+xCopyPNGFile
+x/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/Default.png
+xDefault.png
+lSLF07#2@74"CopyPNGFile build/Release-iphoneos/SnowReports.app/Default.png Default.png295832741#295832741#0(0"0(0#0#110"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/Default.png4300903632#748"    cd /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/Default.png /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/Default.png0#
+
+CCopyPNGFile /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/icon.png icon.png
+s295832741.473061
+e295832741.612038
+r1
+xCopyPNGFile
+x/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/icon.png
+xicon.png
+lSLF07#2@68"CopyPNGFile build/Release-iphoneos/SnowReports.app/icon.png icon.png295832741#295832741#0(0"0(0#0#107"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/icon.png4300903632#742"    cd /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/icon.png /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/icon.png0#
+
+CCopyPlistFile /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/PhoneGap.plist PhoneGap.plist
+s295832741.612811
+e295832741.766401
+r1
+xCopyPlistFile
+x/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/PhoneGap.plist
+xPhoneGap.plist
+lSLF07#2@19"Copy PhoneGap.plist295832741#295832741#0(0"0(0#0#113"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/PhoneGap.plist4300903632#501"    cd /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 PhoneGap.plist --outdir /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app0#
+
+CCpResource build/Release-iphoneos/SnowReports.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+s295832741.173164
+e295832741.239254
+r1
+xCpResource
+xbuild/Release-iphoneos/SnowReports.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist
+lSLF07#2@96"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist295832741#295832741#0(0"0(0#0#91"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist4300903632#629"    cd /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/ResourceRules.plist /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app0#
+
+CCpResource build/Release-iphoneos/SnowReports.app/VERSION /Users/steven97_007/Documents/PhoneGapLib/VERSION
+s295832741.300674
+e295832741.320783
+r1
+xCpResource
+xbuild/Release-iphoneos/SnowReports.app/VERSION
+x/Users/steven97_007/Documents/PhoneGapLib/VERSION
+lSLF07#2@54"Copy /Users/steven97_007/Documents/PhoneGapLib/VERSION295832741#295832741#0(0"0(0#0#49"/Users/steven97_007/Documents/PhoneGapLib/VERSION4300903632#587"    cd /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/steven97_007/Documents/PhoneGapLib/VERSION /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app0#
+
+CCpResource build/Release-iphoneos/SnowReports.app/www www
+s295832741.299935
+e295832741.472958
+r1
+xCpResource
+xbuild/Release-iphoneos/SnowReports.app/www
+xwww
+lSLF07#2@8"Copy www295832741#295832741#0(0"0(0#0#102"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www4300903632#640"    cd /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app0#
+
+CGenerateDSYMFile /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app.dSYM /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/SnowReports
+s295832742.801643
+e295832742.956291
+r1
+xGenerateDSYMFile
+x/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app.dSYM
+x/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/SnowReports
+lSLF07#2@111"GenerateDSYMFile build/Release-iphoneos/SnowReports.app.dSYM build/Release-iphoneos/SnowReports.app/SnowReports295832742#295832742#0(0"0(0#0#149"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/SnowReports4300903632#558"    cd /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/SnowReports -o /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app.dSYM0#
+
+CLd /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/SnowReports normal armv6
+s295832742.441308
+e295832742.801455
+r1
+xLd
+x/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/SnowReports
+xnormal
+xarmv6
+lSLF07#2@154"Link /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/SnowReports295832742#295832742#0(0"0(0#0#0"4300903632#1498"    cd /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -L/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos -F/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos -filelist /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Objects-normal/armv6/SnowReports.LinkFileList -dead_strip -all_load -Obj-C -miphoneos-version-min=3.0 /Users/steven97_007/Documents/PhoneGapLib/build/Release-iphoneos/libPhoneGapLib.a -framework Foundation -framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -framework AVFoundation -framework CFNetwork -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -o /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/SnowReports0#
+
+CPhaseScriptExecution "Copy PhoneGap Javascript" /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Script-30E9A9A110B758320022D3BA.sh
+s295832741.239366
+e295832741.284206
+r1
+xPhaseScriptExecution
+xCopy PhoneGap Javascript
+x/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Script-30E9A9A110B758320022D3BA.sh
+omake: Nothing to be done for `all'.
+ocp /Users/steven97_007/Documents/PhoneGapLib/javascripts/phonegap.js /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/phonegap.js
+lSLF07#2@50"Run custom shell script 'Copy PhoneGap Javascript'295832741#295832741#0(220"make: Nothing to be done for `all'.cp /Users/steven97_007/Documents/PhoneGapLib/javascripts/phonegap.js /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/phonegap.js2(13@36"make: Nothing to be done for `all'.295832741#0#36#0(1@0"0(13@184"cp /Users/steven97_007/Documents/PhoneGapLib/javascripts/phonegap.js /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/phonegap.js295832741#36#184#0(1@0"0(0#0#0"4300903632#20088"    cd /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER steven97_007    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS armv6    setenv ARCHS_STANDARD_32_64_BIT armv6    setenv ARCHS_STANDARD_32_BIT armv6    setenv ARCHS_UNIVERSAL_IPHONE_OS "armv6 armv7"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build    setenv BUILD_ROOT /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build    setenv BUILD_STYLE Release    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos    setenv CACHE_ROOT /var/folders/cF/cFtMz5aREbSY4oR9L2goHk+++TM/-Caches-/com.apple.Xcode.502    setenv CCHROOT /var/folders/cF/cFtMz5aREbSY4oR9L2goHk+++TM/-Caches-/com.apple.Xcode.502    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app    setenv CODE_SIGNING_ALLOWED YES    setenv CODE_SIGNING_REQUIRED YES    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneOSCodeSignContext    setenv CODE_SIGN_IDENTITY "iPhone Developer"    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/cF/cFtMz5aREbSY4oR9L2goHk+++TM/-Caches-/com.apple.Xcode.502/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Release    setenv CONFIGURATION_BUILD_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos    setenv CONFIGURATION_TEMP_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos    setenv CONTENTS_FOLDER_PATH SnowReports.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH armv6    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/SnowReports.dst    setenv DWARF_DSYM_FILE_NAME SnowReports.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv ENTITLEMENTS_ALLOWED YES    setenv ENTITLEMENTS_REQUIRED YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH SnowReports.app/Executables    setenv EXECUTABLE_FOLDER_PATH SnowReports.app    setenv EXECUTABLE_NAME SnowReports    setenv EXECUTABLE_PATH SnowReports.app/SnowReports    setenv FILE_LIST /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH SnowReports.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME SnowReports.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER SnowReports_Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE SnowReports-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH SnowReports.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR /tmp/SnowReports.dst/Users/steven97_007/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER steven97_007    setenv INSTALL_PATH /Users/steven97_007/Applications    setenv INSTALL_ROOT /tmp/SnowReports.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH SnowReports.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports-LinkMap-normal-armv6.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_armv6 /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Objects-normal/armv6/SnowReports.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv MAC_OS_X_VERSION_ACTUAL 1063    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0603    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Objects-normal    setenv OBJROOT /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH SnowReports.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/steven97_007/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/PkgInfo    setenv PKGINFO_PATH SnowReports.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH SnowReports.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH SnowReports.app/PrivateHeaders    setenv PRODUCT_NAME SnowReports    setenv PRODUCT_SETTINGS_PATH /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/SnowReports-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT SnowReports    setenv PROJECT_DERIVED_FILE_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/DerivedSources    setenv PROJECT_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv PROJECT_FILE_PATH /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/SnowReports.xcodeproj    setenv PROJECT_NAME SnowReports    setenv PROJECT_TEMP_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build    setenv PROVISIONING_PROFILE_REQUIRED YES    setenv PUBLIC_HEADERS_FOLDER_PATH SnowReports.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv RESOURCE_RULES_REQUIRED YES    setenv REZ_COLLECTOR_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH SnowReports.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk    setenv SDK_NAME iphoneos3.1.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH SnowReports.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/cF/cFtMz5aREbSY4oR9L2goHk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH SnowReports.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv SRCROOT /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SYMBOL_REPOSITORY_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SymbolRepositories    setenv SYMROOT /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME SnowReports    setenv TARGET_BUILD_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos    setenv TARGET_NAME SnowReports    setenv TARGET_TEMP_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build    setenv TEMP_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build    setenv TEMP_FILES_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build    setenv TEMP_FILE_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build    setenv TEMP_ROOT /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build    setenv UID 502    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH SnowReports.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER steven97_007    setenv USER_APPS_DIR /Users/steven97_007/Applications    setenv USER_HEADER_SEARCH_PATHS /Users/steven97_007/Documents/PhoneGapLib/Classes    setenv USER_LIBRARY_DIR /Users/steven97_007/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "armv6 armv7"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH SnowReports.app/version.plist    setenv VERSION_INFO_BUILDER steven97_007    setenv VERSION_INFO_FILE SnowReports_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:SnowReports  PROJECT:SnowReports-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME SnowReports.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0322    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Script-30E9A9A110B758320022D3BA.sh0#
+
+CPhaseScriptExecution "Touch www folder" /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Script-304B58A110DAC018002A0835.sh
+s295832741.284308
+e295832741.299836
+r1
+xPhaseScriptExecution
+xTouch www folder
+x/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Script-304B58A110DAC018002A0835.sh
+lSLF07#2@42"Run custom shell script 'Touch www folder'295832741#295832741#0(0"0(0#0#0"4300903632#20088"    cd /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv ACTION build    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER steven97_007    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS armv6    setenv ARCHS_STANDARD_32_64_BIT armv6    setenv ARCHS_STANDARD_32_BIT armv6    setenv ARCHS_UNIVERSAL_IPHONE_OS "armv6 armv7"    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build    setenv BUILD_ROOT /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build    setenv BUILD_STYLE Release    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos    setenv CACHE_ROOT /var/folders/cF/cFtMz5aREbSY4oR9L2goHk+++TM/-Caches-/com.apple.Xcode.502    setenv CCHROOT /var/folders/cF/cFtMz5aREbSY4oR9L2goHk+++TM/-Caches-/com.apple.Xcode.502    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app    setenv CODE_SIGNING_ALLOWED YES    setenv CODE_SIGNING_REQUIRED YES    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneOSCodeSignContext    setenv CODE_SIGN_IDENTITY "iPhone Developer"    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/cF/cFtMz5aREbSY4oR9L2goHk+++TM/-Caches-/com.apple.Xcode.502/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Release    setenv CONFIGURATION_BUILD_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos    setenv CONFIGURATION_TEMP_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos    setenv CONTENTS_FOLDER_PATH SnowReports.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP YES    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH armv6    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/SnowReports.dst    setenv DWARF_DSYM_FILE_NAME SnowReports.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv ENTITLEMENTS_ALLOWED YES    setenv ENTITLEMENTS_REQUIRED YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH SnowReports.app/Executables    setenv EXECUTABLE_FOLDER_PATH SnowReports.app    setenv EXECUTABLE_NAME SnowReports    setenv EXECUTABLE_PATH SnowReports.app/SnowReports    setenv FILE_LIST /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH SnowReports.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME SnowReports.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER SnowReports_Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE SnowReports-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH SnowReports.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR /tmp/SnowReports.dst/Users/steven97_007/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER steven97_007    setenv INSTALL_PATH /Users/steven97_007/Applications    setenv INSTALL_ROOT /tmp/SnowReports.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH SnowReports.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports-LinkMap-normal-armv6.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_armv6 /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Objects-normal/armv6/SnowReports.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv MAC_OS_X_VERSION_ACTUAL 1063    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0603    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Objects-normal    setenv OBJROOT /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH SnowReports.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/steven97_007/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/PkgInfo    setenv PKGINFO_PATH SnowReports.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH SnowReports.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH SnowReports.app/PrivateHeaders    setenv PRODUCT_NAME SnowReports    setenv PRODUCT_SETTINGS_PATH /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/SnowReports-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT SnowReports    setenv PROJECT_DERIVED_FILE_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/DerivedSources    setenv PROJECT_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv PROJECT_FILE_PATH /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/SnowReports.xcodeproj    setenv PROJECT_NAME SnowReports    setenv PROJECT_TEMP_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build    setenv PROVISIONING_PROFILE_REQUIRED YES    setenv PUBLIC_HEADERS_FOLDER_PATH SnowReports.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv RESOURCE_RULES_REQUIRED YES    setenv REZ_COLLECTOR_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH SnowReports.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk    setenv SDK_NAME iphoneos3.1.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH SnowReports.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/cF/cFtMz5aREbSY4oR9L2goHk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH SnowReports.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv SRCROOT /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SYMBOL_REPOSITORY_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SymbolRepositories    setenv SYMROOT /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME SnowReports    setenv TARGET_BUILD_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos    setenv TARGET_NAME SnowReports    setenv TARGET_TEMP_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build    setenv TEMP_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build    setenv TEMP_FILES_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build    setenv TEMP_FILE_DIR /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build    setenv TEMP_ROOT /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build    setenv UID 502    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH SnowReports.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER steven97_007    setenv USER_APPS_DIR /Users/steven97_007/Applications    setenv USER_HEADER_SEARCH_PATHS /Users/steven97_007/Documents/PhoneGapLib/Classes    setenv USER_LIBRARY_DIR /Users/steven97_007/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "armv6 armv7"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH SnowReports.app/version.plist    setenv VERSION_INFO_BUILDER steven97_007    setenv VERSION_INFO_FILE SnowReports_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:SnowReports  PROJECT:SnowReports-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME SnowReports.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0322    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/Script-304B58A110DAC018002A0835.sh0#
+
+CProcessInfoPlistFile /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/Info.plist SnowReports-Info.plist
+s295832741.174176
+e295832741.218003
+r1
+xProcessInfoPlistFile
+x/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/Info.plist
+xSnowReports-Info.plist
+lSLF07#2@30"Process SnowReports-Info.plist295832741#295832741#0(0"0(0#0#121"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/SnowReports-Info.plist4300903632#824"    cd /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SnowReports-Info.plist -genpkginfo /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/ResourceRules.plist -o /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/Info.plist0#
+
+CProcessPCH /var/folders/cF/cFtMz5aREbSY4oR9L2goHk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnowReports_Prefix-ezynucllcfeqtogfiyfyyimmldth/SnowReports_Prefix.pch.gch SnowReports_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s295832741.766530
+e295832742.318068
+r1
+xProcessPCH
+x/var/folders/cF/cFtMz5aREbSY4oR9L2goHk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnowReports_Prefix-ezynucllcfeqtogfiyfyyimmldth/SnowReports_Prefix.pch.gch
+xSnowReports_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile SnowReports_Prefix.pch295832741#295832742#0(0"0(0#0#121"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/SnowReports_Prefix.pch4300903632#2390"    cd /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports-generated-files.hmap -I/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports-own-target-headers.hmap -I/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports-all-target-headers.hmap -iquote /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports-project-headers.hmap -F/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos -iquote/Users/steven97_007/Documents/PhoneGapLib/Classes -I/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/include -I/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/DerivedSources/armv6 -I/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/DerivedSources -c /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/SnowReports_Prefix.pch -o /var/folders/cF/cFtMz5aREbSY4oR9L2goHk+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SnowReports_Prefix-ezynucllcfeqtogfiyfyyimmldth/SnowReports_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/steven97_007/Library/MobileDevice/Provisioning Profiles/1CF731CF-64B1-4391-8195-F429942DCBA5.mobileprovision" /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/embedded.mobileprovision
+s295832742.956422
+e295832742.957795
+r1
+xProcessProductPackaging
+x/Users/steven97_007/Library/MobileDevice/Provisioning Profiles/1CF731CF-64B1-4391-8195-F429942DCBA5.mobileprovision
+x/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/embedded.mobileprovision
+lSLF07#2@205"ProcessProductPackaging "/Users/steven97_007/Library/MobileDevice/Provisioning Profiles/1CF731CF-64B1-4391-8195-F429942DCBA5.mobileprovision" build/Release-iphoneos/SnowReports.app/embedded.mobileprovision295832742#295832742#0(0"0(0#0#162"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/embedded.mobileprovision4300903632#556"    cd /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/steven97_007/Library/MobileDevice/Provisioning Profiles/1CF731CF-64B1-4391-8195-F429942DCBA5.mobileprovision" -o /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports.xcent
+s295832742.961441
+e295832742.984312
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist
+x/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports.xcent
+lSLF07#2@191"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports.xcent295832742#295832742#0(0"0(0#0#175"/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports.xcent4300903632#568"    cd /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.1.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/SnowReports.build/Release-iphoneos/SnowReports.build/SnowReports.xcent0#
+
+CTouch /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app
+s295832742.957864
+e295832742.961336
+r1
+xTouch
+x/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app
+lSLF07#2@143"Touch /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app295832742#295832742#0(0"0(0#0#0"4300903632#390"    cd /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/build/Release-iphoneos/SnowReports.app0#
+

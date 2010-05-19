@@ -1,0 +1,538 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* SnowReportsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {747, 1183}}";
+			sepNavSelRange = "{897, 0}";
+			sepNavVisRange = "{743, 480}";
+			sepNavWindowFrame = "{{0, 168}, {1577, 705}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SnowReports */ = {
+		activeExec = 0;
+		executables = (
+			ED2D09D7119A2CFD00523189 /* SnowReports */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = ED2D09D7119A2CFD00523189 /* SnowReports */;
+		activeSDKPreference = iphonesimulator3.1.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SnowReports */;
+		codeSenseManager = ED2D09F9119A2D1D00523189 /* Code sense */;
+		executables = (
+			ED2D09D7119A2CFD00523189 /* SnowReports */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					462,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					659,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 295914695;
+			PBXWorkspaceStateSaveDate = 295914695;
+		};
+		perUserProjectItems = {
+			EDD7EAF611A1F41400D8E253 = EDD7EAF611A1F41400D8E253 /* PBXTextBookmark */;
+			EDD7EBFD11A203D000D8E253 = EDD7EBFD11A203D000D8E253 /* PlistBookmark */;
+			EDD7EC4B11A20E8100D8E253 = EDD7EC4B11A20E8100D8E253 /* PlistBookmark */;
+			EDD7EC6B11A308EA00D8E253 = EDD7EC6B11A308EA00D8E253 /* PBXTextBookmark */;
+			EDD7EC6E11A30F7F00D8E253 = EDD7EC6E11A30F7F00D8E253 /* PBXTextBookmark */;
+			EDD7EC6F11A30F7F00D8E253 = EDD7EC6F11A30F7F00D8E253 /* PBXBookmark */;
+			EDD7EC7111A30F7F00D8E253 = EDD7EC7111A30F7F00D8E253 /* PBXBookmark */;
+			EDD7EC7311A30F7F00D8E253 = EDD7EC7311A30F7F00D8E253 /* PBXBookmark */;
+			EDD7EC7511A30F7F00D8E253 = EDD7EC7511A30F7F00D8E253 /* PBXBookmark */;
+			EDD7EC7711A30F7F00D8E253 = EDD7EC7711A30F7F00D8E253 /* PBXBookmark */;
+			EDD7EC7911A30F7F00D8E253 = EDD7EC7911A30F7F00D8E253 /* PBXBookmark */;
+			EDD7EC7B11A30F7F00D8E253 = EDD7EC7B11A30F7F00D8E253 /* PBXBookmark */;
+			EDD7EC7D11A30F7F00D8E253 = EDD7EC7D11A30F7F00D8E253 /* PBXBookmark */;
+			EDD7EC7F11A30F7F00D8E253 = EDD7EC7F11A30F7F00D8E253 /* PBXBookmark */;
+			EDD7EC8111A30F7F00D8E253 = EDD7EC8111A30F7F00D8E253 /* PBXBookmark */;
+			EDD7EC8311A30F7F00D8E253 = EDD7EC8311A30F7F00D8E253 /* PBXBookmark */;
+			EDD7EC8511A30F7F00D8E253 = EDD7EC8511A30F7F00D8E253 /* PBXBookmark */;
+			EDD7EC8711A30F7F00D8E253 = EDD7EC8711A30F7F00D8E253 /* PBXBookmark */;
+			EDD7EC8911A30F7F00D8E253 = EDD7EC8911A30F7F00D8E253 /* PBXBookmark */;
+			EDD7EC8B11A30F7F00D8E253 = EDD7EC8B11A30F7F00D8E253 /* PBXBookmark */;
+			EDD7EC8D11A30F7F00D8E253 = EDD7EC8D11A30F7F00D8E253 /* PBXTextBookmark */;
+			EDDC5E1F11A34BC800EEC066 = EDDC5E1F11A34BC800EEC066 /* PBXTextBookmark */;
+			EDDC5E8B11A34CB400EEC066 = EDDC5E8B11A34CB400EEC066 /* PBXTextBookmark */;
+			EDDC5E9B11A34CCE00EEC066 /* PBXTextBookmark */ = EDDC5E9B11A34CCE00EEC066 /* PBXTextBookmark */;
+			EDDC5EC311A3606C00EEC066 /* PBXTextBookmark */ = EDDC5EC311A3606C00EEC066 /* PBXTextBookmark */;
+			EDDC5EC511A3606C00EEC066 /* PBXTextBookmark */ = EDDC5EC511A3606C00EEC066 /* PBXTextBookmark */;
+			EDDC5ECD11A360B600EEC066 /* PBXTextBookmark */ = EDDC5ECD11A360B600EEC066 /* PBXTextBookmark */;
+			EDDC5ED211A3612600EEC066 /* PBXTextBookmark */ = EDDC5ED211A3612600EEC066 /* PBXTextBookmark */;
+			EDDC5EDB11A3617900EEC066 /* PBXTextBookmark */ = EDDC5EDB11A3617900EEC066 /* PBXTextBookmark */;
+			EDDC5F3611A49C3D00EEC066 /* PBXTextBookmark */ = EDDC5F3611A49C3D00EEC066 /* PBXTextBookmark */;
+			EDDC5F4511A4A21A00EEC066 /* PBXTextBookmark */ = EDDC5F4511A4A21A00EEC066 /* PBXTextBookmark */;
+		};
+		sourceControlManager = ED2D09F8119A2D1D00523189 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* SnowReports_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {752, 270}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 191}";
+		};
+	};
+	ED2D09D7119A2CFD00523189 /* SnowReports */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SnowReports;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	ED2D09F8119A2D1D00523189 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	ED2D09F9119A2D1D00523189 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	ED2D0A43119A2E3B00523189 /* index.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = index.html;
+		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/index.html";
+		sourceTree = "<absolute>";
+	};
+	ED2D0A92119B702F00523189 /* effect.css */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.css;
+		name = effect.css;
+		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/stylesheets/effect.css";
+		sourceTree = "<absolute>";
+	};
+	EDA8E33111A31A130011867B /* snowreport.css */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.css;
+		name = snowreport.css;
+		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/stylesheets/snowreport.css";
+		sourceTree = "<absolute>";
+	};
+	EDD7EAF611A1F41400D8E253 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* SnowReports_Prefix.pch */;
+		name = "SnowReports_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	EDD7EBFD11A203D000D8E253 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 30E1352610E2C1420031B30D /* PhoneGap.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/PhoneGap.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	EDD7EC4B11A20E8100D8E253 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SnowReports-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleInfoDictionaryVersion,
+		);
+		name = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/SnowReports-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	EDD7EC6B11A308EA00D8E253 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SnowReportsAppDelegate.m */;
+		name = "SnowReportsAppDelegate.m: 37";
+		rLen = 0;
+		rLoc = 899;
+		rType = 0;
+		vrLen = 955;
+		vrLoc = 393;
+	};
+	EDD7EC6E11A30F7F00D8E253 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ED2D0A43119A2E3B00523189 /* index.html */;
+		name = "index.html: 13";
+		rLen = 0;
+		rLoc = 638;
+		rType = 0;
+		vrLen = 1632;
+		vrLoc = 0;
+	};
+	EDD7EC6F11A30F7F00D8E253 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EDD7EC7011A30F7F00D8E253 /* back.png */;
+	};
+	EDD7EC7011A30F7F00D8E253 /* back.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = back.png;
+		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/images/back.png";
+		sourceTree = "<absolute>";
+	};
+	EDD7EC7111A30F7F00D8E253 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EDD7EC7211A30F7F00D8E253 /* cloud2.png */;
+	};
+	EDD7EC7211A30F7F00D8E253 /* cloud2.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = cloud2.png;
+		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/images/cloud2.png";
+		sourceTree = "<absolute>";
+	};
+	EDD7EC7311A30F7F00D8E253 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EDD7EC7411A30F7F00D8E253 /* cloud3.png */;
+	};
+	EDD7EC7411A30F7F00D8E253 /* cloud3.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = cloud3.png;
+		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/images/cloud3.png";
+		sourceTree = "<absolute>";
+	};
+	EDD7EC7511A30F7F00D8E253 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EDD7EC7611A30F7F00D8E253 /* minicon.png */;
+	};
+	EDD7EC7611A30F7F00D8E253 /* minicon.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = minicon.png;
+		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/images/minicon.png";
+		sourceTree = "<absolute>";
+	};
+	EDD7EC7711A30F7F00D8E253 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EDD7EC7811A30F7F00D8E253 /* open-mini.png */;
+	};
+	EDD7EC7811A30F7F00D8E253 /* open-mini.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "open-mini.png";
+		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/images/open-mini.png";
+		sourceTree = "<absolute>";
+	};
+	EDD7EC7911A30F7F00D8E253 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EDD7EC7A11A30F7F00D8E253 /* reload.png */;
+	};
+	EDD7EC7A11A30F7F00D8E253 /* reload.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = reload.png;
+		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/images/reload.png";
+		sourceTree = "<absolute>";
+	};
+	EDD7EC7B11A30F7F00D8E253 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EDD7EC7C11A30F7F00D8E253 /* snow3.png */;
+	};
+	EDD7EC7C11A30F7F00D8E253 /* snow3.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = snow3.png;
+		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/images/snow3.png";
+		sourceTree = "<absolute>";
+	};
+	EDD7EC7D11A30F7F00D8E253 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EDD7EC7E11A30F7F00D8E253 /* toggle_black_mid.png */;
+	};
+	EDD7EC7E11A30F7F00D8E253 /* toggle_black_mid.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = toggle_black_mid.png;
+		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/images/toggle_black_mid.png";
+		sourceTree = "<absolute>";
+	};
+	EDD7EC7F11A30F7F00D8E253 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EDD7EC8011A30F7F00D8E253 /* ui-background.png */;
+	};
+	EDD7EC8011A30F7F00D8E253 /* ui-background.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "ui-background.png";
+		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/images/ui-background.png";
+		sourceTree = "<absolute>";
+	};
+	EDD7EC8111A30F7F00D8E253 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EDD7EC8211A30F7F00D8E253 /* ui-separator.png */;
+	};
+	EDD7EC8211A30F7F00D8E253 /* ui-separator.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = "ui-separator.png";
+		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/images/ui-separator.png";
+		sourceTree = "<absolute>";
+	};
+	EDD7EC8311A30F7F00D8E253 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EDD7EC8411A30F7F00D8E253 /* toggle_blue_mid.png */;
+	};
+	EDD7EC8411A30F7F00D8E253 /* toggle_blue_mid.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = toggle_blue_mid.png;
+		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/images/toggle_blue_mid.png";
+		sourceTree = "<absolute>";
+	};
+	EDD7EC8511A30F7F00D8E253 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EDD7EC8611A30F7F00D8E253 /* toggle_blue_right.png */;
+	};
+	EDD7EC8611A30F7F00D8E253 /* toggle_blue_right.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = toggle_blue_right.png;
+		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/images/toggle_blue_right.png";
+		sourceTree = "<absolute>";
+	};
+	EDD7EC8711A30F7F00D8E253 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EDD7EC8811A30F7F00D8E253 /* toggle_blue_left.png */;
+	};
+	EDD7EC8811A30F7F00D8E253 /* toggle_blue_left.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = toggle_blue_left.png;
+		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/images/toggle_blue_left.png";
+		sourceTree = "<absolute>";
+	};
+	EDD7EC8911A30F7F00D8E253 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EDD7EC8A11A30F7F00D8E253 /* toggle_black_right.png */;
+	};
+	EDD7EC8A11A30F7F00D8E253 /* toggle_black_right.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = toggle_black_right.png;
+		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/images/toggle_black_right.png";
+		sourceTree = "<absolute>";
+	};
+	EDD7EC8B11A30F7F00D8E253 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EDD7EC8C11A30F7F00D8E253 /* toggle_black_left.png */;
+	};
+	EDD7EC8C11A30F7F00D8E253 /* toggle_black_left.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = toggle_black_left.png;
+		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/images/toggle_black_left.png";
+		sourceTree = "<absolute>";
+	};
+	EDD7EC8D11A30F7F00D8E253 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ED2D0A92119B702F00523189 /* effect.css */;
+		name = "effect.css: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 348;
+		vrLoc = 1047;
+	};
+	EDDC5E1F11A34BC800EEC066 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDA8E33111A31A130011867B /* snowreport.css */;
+		name = "snowreport.css: 7";
+		rLen = 0;
+		rLoc = 147;
+		rType = 0;
+		vrLen = 420;
+		vrLoc = 3896;
+	};
+	EDDC5E8B11A34CB400EEC066 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDDC5E8C11A34CB400EEC066 /* snowreport.css */;
+		name = "snowreport.css: 7";
+		rLen = 0;
+		rLoc = 147;
+		rType = 0;
+		vrLen = 491;
+		vrLoc = 3840;
+	};
+	EDDC5E8C11A34CB400EEC066 /* snowreport.css */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.css;
+		name = snowreport.css;
+		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/stylesheets/snowreport.css";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {837, 3757}}";
+			sepNavSelRange = "{147, 0}";
+			sepNavVisRange = "{3840, 450}";
+		};
+	};
+	EDDC5E9B11A34CCE00EEC066 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDDC5E8C11A34CB400EEC066 /* snowreport.css */;
+		name = "snowreport.css: 7";
+		rLen = 0;
+		rLoc = 147;
+		rType = 0;
+		vrLen = 476;
+		vrLoc = 3840;
+	};
+	EDDC5EC311A3606C00EEC066 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDDC5EC411A3606C00EEC066 /* index.html */;
+		name = "index.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1436;
+		vrLoc = 0;
+	};
+	EDDC5EC411A3606C00EEC066 /* index.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = index.html;
+		path = /Users/steven97_007/Documents/Repo/SnowReports/iphone/SnowReports/www/index.html;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {837, 949}}";
+			sepNavSelRange = "{273, 0}";
+			sepNavVisRange = "{0, 1436}";
+		};
+	};
+	EDDC5EC511A3606C00EEC066 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDDC5EC611A3606C00EEC066 /* index.html */;
+		name = "index.html: 6";
+		rLen = 0;
+		rLoc = 273;
+		rType = 0;
+		vrLen = 1436;
+		vrLoc = 0;
+	};
+	EDDC5EC611A3606C00EEC066 /* index.html */ = {
+		isa = PBXFileReference;
+		name = index.html;
+		path = /Users/steven97_007/Documents/Repo/SnowReports/iphone/SnowReports/www/index.html;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {837, 923}}";
+			sepNavSelRange = "{3944, 0}";
+			sepNavVisRange = "{0, 1632}";
+		};
+	};
+	EDDC5ECD11A360B600EEC066 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDDC5EC411A3606C00EEC066 /* index.html */;
+		name = "index.html: 6";
+		rLen = 0;
+		rLoc = 273;
+		rType = 0;
+		vrLen = 1436;
+		vrLoc = 0;
+	};
+	EDDC5ED211A3612600EEC066 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDDC5EC411A3606C00EEC066 /* index.html */;
+		name = "index.html: 6";
+		rLen = 0;
+		rLoc = 273;
+		rType = 0;
+		vrLen = 1632;
+		vrLoc = 0;
+	};
+	EDDC5EDB11A3617900EEC066 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDDC5EC411A3606C00EEC066 /* index.html */;
+		name = "index.html: 6";
+		rLen = 0;
+		rLoc = 273;
+		rType = 0;
+		vrLen = 1436;
+		vrLoc = 0;
+	};
+	EDDC5F3611A49C3D00EEC066 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDDC5EC611A3606C00EEC066 /* index.html */;
+		name = "index.html: 75";
+		rLen = 0;
+		rLoc = 3944;
+		rType = 0;
+		vrLen = 1436;
+		vrLoc = 0;
+	};
+	EDDC5F4511A4A21A00EEC066 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDDC5EC611A3606C00EEC066 /* index.html */;
+		name = "index.html: 75";
+		rLen = 0;
+		rLoc = 3944;
+		rType = 0;
+		vrLen = 1632;
+		vrLoc = 0;
+	};
+}

@@ -4,6 +4,7 @@ body {
 	background: url(../images/ui-background.png) repeat-x #252D31 !important;
 	color: #fff !important;
 	margin:		0px;
+	height: 440px;
 	font-family: arial,sans-serif;
 }
 
@@ -126,7 +127,7 @@ body {
 	background: url(../images/open64.png) no-repeat top right;
 }
 .open-status.icon-large.Unknown {
-	background: url(../images/Unknown.png) no-repeat top right;
+	background: url(../images/unknown.png) no-repeat top right;
 }
 
 .large-row {
@@ -224,8 +225,8 @@ body {
 }
 
 .header div, .footer div {
-	height:		34px;
-	padding-top:8px;
+	height:		30px;
+	padding-top: 0.85em;
 	background-repeat:	repeat-x;
 	float:		left;
 }
@@ -246,7 +247,7 @@ body {
 
 .left-end-black {
 	background-image: url(../images/toggle_black_left.png);
-	width:		20px; 
+	width:		20px;
 }
 
 .mid-blue {
@@ -272,8 +273,9 @@ body {
 }
 
 .footer .mid-blue, .footer .mid-black  {
-	padding:	8px 9px 0px;
+	padding:	0.85em 9px 0px;
 }
+
 
 .back-button {
 	margin-right:10px;
