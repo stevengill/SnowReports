@@ -60,10 +60,12 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 295914695;
-			PBXWorkspaceStateSaveDate = 295914695;
+			PBXPerProjectTemplateStateSaveDate = 296516680;
+			PBXWorkspaceStateSaveDate = 296516680;
 		};
 		perUserProjectItems = {
+			ED1AA6F011AC7C4B00EF767B /* PBXTextBookmark */ = ED1AA6F011AC7C4B00EF767B /* PBXTextBookmark */;
+			ED1AA6F611AC815600EF767B /* PBXTextBookmark */ = ED1AA6F611AC815600EF767B /* PBXTextBookmark */;
 			EDD7EAF611A1F41400D8E253 = EDD7EAF611A1F41400D8E253 /* PBXTextBookmark */;
 			EDD7EBFD11A203D000D8E253 = EDD7EBFD11A203D000D8E253 /* PlistBookmark */;
 			EDD7EC4B11A20E8100D8E253 = EDD7EC4B11A20E8100D8E253 /* PlistBookmark */;
@@ -84,17 +86,8 @@
 			EDD7EC8711A30F7F00D8E253 = EDD7EC8711A30F7F00D8E253 /* PBXBookmark */;
 			EDD7EC8911A30F7F00D8E253 = EDD7EC8911A30F7F00D8E253 /* PBXBookmark */;
 			EDD7EC8B11A30F7F00D8E253 = EDD7EC8B11A30F7F00D8E253 /* PBXBookmark */;
-			EDD7EC8D11A30F7F00D8E253 = EDD7EC8D11A30F7F00D8E253 /* PBXTextBookmark */;
-			EDDC5E1F11A34BC800EEC066 = EDDC5E1F11A34BC800EEC066 /* PBXTextBookmark */;
-			EDDC5E8B11A34CB400EEC066 = EDDC5E8B11A34CB400EEC066 /* PBXTextBookmark */;
-			EDDC5E9B11A34CCE00EEC066 /* PBXTextBookmark */ = EDDC5E9B11A34CCE00EEC066 /* PBXTextBookmark */;
-			EDDC5EC311A3606C00EEC066 /* PBXTextBookmark */ = EDDC5EC311A3606C00EEC066 /* PBXTextBookmark */;
-			EDDC5EC511A3606C00EEC066 /* PBXTextBookmark */ = EDDC5EC511A3606C00EEC066 /* PBXTextBookmark */;
-			EDDC5ECD11A360B600EEC066 /* PBXTextBookmark */ = EDDC5ECD11A360B600EEC066 /* PBXTextBookmark */;
-			EDDC5ED211A3612600EEC066 /* PBXTextBookmark */ = EDDC5ED211A3612600EEC066 /* PBXTextBookmark */;
-			EDDC5EDB11A3617900EEC066 /* PBXTextBookmark */ = EDDC5EDB11A3617900EEC066 /* PBXTextBookmark */;
-			EDDC5F3611A49C3D00EEC066 /* PBXTextBookmark */ = EDDC5F3611A49C3D00EEC066 /* PBXTextBookmark */;
-			EDDC5F4511A4A21A00EEC066 /* PBXTextBookmark */ = EDDC5F4511A4A21A00EEC066 /* PBXTextBookmark */;
+			EDDC5EC311A3606C00EEC066 = EDDC5EC311A3606C00EEC066 /* PBXTextBookmark */;
+			EDDC5F7A11A5B2CD00EEC066 = EDDC5F7A11A5B2CD00EEC066 /* PBXTextBookmark */;
 		};
 		sourceControlManager = ED2D09F8119A2D1D00523189 /* Source Control */;
 		userBuildSettings = {
@@ -106,6 +99,26 @@
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 191}";
 		};
+	};
+	ED1AA6F011AC7C4B00EF767B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDDC5F7B11A5B2CD00EEC066 /* index.html */;
+		name = "index.html: 75";
+		rLen = 0;
+		rLoc = 3944;
+		rType = 0;
+		vrLen = 1535;
+		vrLoc = 0;
+	};
+	ED1AA6F611AC815600EF767B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDDC5F7B11A5B2CD00EEC066 /* index.html */;
+		name = "index.html: 75";
+		rLen = 0;
+		rLoc = 3944;
+		rType = 0;
+		vrLen = 1436;
+		vrLoc = 0;
 	};
 	ED2D09D7119A2CFD00523189 /* SnowReports */ = {
 		isa = PBXExecutable;
@@ -156,20 +169,6 @@
 		lastKnownFileType = text.html;
 		name = index.html;
 		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/index.html";
-		sourceTree = "<absolute>";
-	};
-	ED2D0A92119B702F00523189 /* effect.css */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = text.css;
-		name = effect.css;
-		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/stylesheets/effect.css";
-		sourceTree = "<absolute>";
-	};
-	EDA8E33111A31A130011867B /* snowreport.css */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = text.css;
-		name = snowreport.css;
-		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/stylesheets/snowreport.css";
 		sourceTree = "<absolute>";
 	};
 	EDD7EAF611A1F41400D8E253 /* PBXTextBookmark */ = {
@@ -390,58 +389,6 @@
 		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/images/toggle_black_left.png";
 		sourceTree = "<absolute>";
 	};
-	EDD7EC8D11A30F7F00D8E253 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = ED2D0A92119B702F00523189 /* effect.css */;
-		name = "effect.css: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 348;
-		vrLoc = 1047;
-	};
-	EDDC5E1F11A34BC800EEC066 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = EDA8E33111A31A130011867B /* snowreport.css */;
-		name = "snowreport.css: 7";
-		rLen = 0;
-		rLoc = 147;
-		rType = 0;
-		vrLen = 420;
-		vrLoc = 3896;
-	};
-	EDDC5E8B11A34CB400EEC066 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = EDDC5E8C11A34CB400EEC066 /* snowreport.css */;
-		name = "snowreport.css: 7";
-		rLen = 0;
-		rLoc = 147;
-		rType = 0;
-		vrLen = 491;
-		vrLoc = 3840;
-	};
-	EDDC5E8C11A34CB400EEC066 /* snowreport.css */ = {
-		isa = PBXFileReference;
-		lastKnownFileType = text.css;
-		name = snowreport.css;
-		path = "/Users/steven97_007/Documents/Repo/phonegapsource/phonegap/phonegap-iphone/SnowReports/SnowReports/www/stylesheets/snowreport.css";
-		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {837, 3757}}";
-			sepNavSelRange = "{147, 0}";
-			sepNavVisRange = "{3840, 450}";
-		};
-	};
-	EDDC5E9B11A34CCE00EEC066 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = EDDC5E8C11A34CB400EEC066 /* snowreport.css */;
-		name = "snowreport.css: 7";
-		rLen = 0;
-		rLoc = 147;
-		rType = 0;
-		vrLen = 476;
-		vrLoc = 3840;
-	};
 	EDDC5EC311A3606C00EEC066 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = EDDC5EC411A3606C00EEC066 /* index.html */;
@@ -458,81 +405,27 @@
 		name = index.html;
 		path = /Users/steven97_007/Documents/Repo/SnowReports/iphone/SnowReports/www/index.html;
 		sourceTree = "<absolute>";
-		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {837, 949}}";
-			sepNavSelRange = "{273, 0}";
-			sepNavVisRange = "{0, 1436}";
-		};
 	};
-	EDDC5EC511A3606C00EEC066 /* PBXTextBookmark */ = {
+	EDDC5F7A11A5B2CD00EEC066 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = EDDC5EC611A3606C00EEC066 /* index.html */;
-		name = "index.html: 6";
+		fRef = EDDC5F7B11A5B2CD00EEC066 /* index.html */;
+		name = "index.html: 75";
 		rLen = 0;
-		rLoc = 273;
+		rLoc = 3944;
 		rType = 0;
-		vrLen = 1436;
+		vrLen = 1632;
 		vrLoc = 0;
 	};
-	EDDC5EC611A3606C00EEC066 /* index.html */ = {
+	EDDC5F7B11A5B2CD00EEC066 /* index.html */ = {
 		isa = PBXFileReference;
+		lastKnownFileType = text.html;
 		name = index.html;
 		path = /Users/steven97_007/Documents/Repo/SnowReports/iphone/SnowReports/www/index.html;
 		sourceTree = "<absolute>";
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {837, 923}}";
 			sepNavSelRange = "{3944, 0}";
-			sepNavVisRange = "{0, 1632}";
+			sepNavVisRange = "{0, 1436}";
 		};
-	};
-	EDDC5ECD11A360B600EEC066 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = EDDC5EC411A3606C00EEC066 /* index.html */;
-		name = "index.html: 6";
-		rLen = 0;
-		rLoc = 273;
-		rType = 0;
-		vrLen = 1436;
-		vrLoc = 0;
-	};
-	EDDC5ED211A3612600EEC066 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = EDDC5EC411A3606C00EEC066 /* index.html */;
-		name = "index.html: 6";
-		rLen = 0;
-		rLoc = 273;
-		rType = 0;
-		vrLen = 1632;
-		vrLoc = 0;
-	};
-	EDDC5EDB11A3617900EEC066 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = EDDC5EC411A3606C00EEC066 /* index.html */;
-		name = "index.html: 6";
-		rLen = 0;
-		rLoc = 273;
-		rType = 0;
-		vrLen = 1436;
-		vrLoc = 0;
-	};
-	EDDC5F3611A49C3D00EEC066 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = EDDC5EC611A3606C00EEC066 /* index.html */;
-		name = "index.html: 75";
-		rLen = 0;
-		rLoc = 3944;
-		rType = 0;
-		vrLen = 1436;
-		vrLoc = 0;
-	};
-	EDDC5F4511A4A21A00EEC066 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = EDDC5EC611A3606C00EEC066 /* index.html */;
-		name = "index.html: 75";
-		rLen = 0;
-		rLoc = 3944;
-		rType = 0;
-		vrLen = 1632;
-		vrLoc = 0;
 	};
 }

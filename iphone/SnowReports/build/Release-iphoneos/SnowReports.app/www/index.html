@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Snow Report</title>
+		<meta name = "viewport" content = "width = device-width, height = 460px">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<link href="stylesheets/snowreport.css" media="screen" rel="stylesheet" type="text/css" />
+		<link href="stylesheets/effect.css" media="screen" rel="stylesheet" type="text/css" />
+		<script>
+			var userAgent = navigator.userAgent;
+			if(userAgent.toLowerCase().search(/webos/)!=-1){
+				var head = document.getElementsByTagName("head")[0];
+				var script = document.createElement("script");
+				script.setAttribute("src", "/usr/palm/frameworks/mojo/mojo.js");
+				script.setAttribute("type", "text/javascript");
+				script.setAttribute("x-mojo-version", "1");
+				head.insertBefore(script, head.firstChild);
+			}
+		</script>
+		
+		<script language="javascript" type="text/javascript" src="js/utils/Const.js"></script>
+		<script language="javascript" type="text/javascript" src="js/utils/TConst.js"></script>
+		<script language="javascript" type="text/javascript" src="js/utils/Util.js"></script>
+		<script language="javascript" type="text/javascript" src="js/utils/WeatherUtil.js"></script>
+		<script language="javascript" type="text/javascript" src="js/utils/Templates.js"></script>
+		<script language="javascript" type="text/javascript" src="js/models/ResortRSSProxy.js"></script>
+		<script language="javascript" type="text/javascript" src="js/models/WeatherProxy.js"></script>
+		<script language="javascript" type="text/javascript" src="js/models/WOEIDProxy.js"></script>
+		<script language="javascript" type="text/javascript" src="js/models/App.js"></script>
+		<script language="javascript" type="text/javascript" src="js/models/Effect.js"></script>
+		<script language="javascript" type="text/javascript" src="phonegap.js"></script>
+		<script language="javascript" type="text/javascript">
+			var setFont = function () {
+				//alert(navigator.device.platform);
+				if (navigator.device.platform == "symbian") {
+					document.body.style.fontSize = "28px";
+				}
+			}
+		</script>
+	</head>
+<body onload="App.getInstance(); setFont();">
+	<div id="main-view" class="scene">
+		<div id="effect"></div>
+		<div id="palm-list" class="palm-list" style="display:block;"></div>
+		<div id="detail" class="scene" style="display:none;">
+			<div style="margin:5px"><table class="header reg" cellpadding=0 cellspacing=0><tr>
+				<td id="header-left-end" class="left-end-blue"></td>
+				<td class="mid">
+					<div id="header-left-mid" class="mid-blue" onclick="App.getInstance().updateSnowReport()"><b>Snow Report</b></div>
+					<div id="header-right-mid" class="mid-black" onclick="App.getInstance().onWeatherRequest()"><b>Weather</b></div>
+				</td>
+				<td id="header-right-end" class="right-end-black"></td>
+			</tr></table></div>
+			<div id="effect"></div>
+			<div class="wrapper">
+				<div id="header">--</div>
+				<div id="detail-list" class="palm-list"></div>
+			</div>
+			<div class="small center" style="padding-top: 4px">Last updated: <span id="time-stamp">--</span></div>
+			<div id="message"></div>	
+			<div class="footer reg">
+				<div id="footer-left-end" class="left-end-blue"></div>
+				<div id="footer-left-mid" class="mid-blue" onclick="App.getInstance().onSetUnitInch()"><b>Imperial</b></div>
+				<div id="footer-right-mid" class="mid-black" onclick="App.getInstance().onSetUnitCm()"><b>Metric</b></div>
+				<div id="footer-right-end" class="right-end-black"></div>
+				<img id="back-button" class="back-button" src="images/back.png" onclick="App.getInstance().onShowMainView();"/>
+				<img id="spinner" class="spinner" src="images/spinner.gif" style="display:none;" />
+			</div>
+			<div style="display:block;height:50px"></div>
+		</div>
+		<div id="message"></div>
+	</div>
+</body>
+</html>

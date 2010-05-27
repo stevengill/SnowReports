@@ -116,7 +116,7 @@ body {
 }
 
 .open-status.Unknown {
-	background-image: url(../images/unknown-mini.png);
+	background-image: url(../images/open-mini.png);
 }
 
 .open-status.icon-large {
@@ -127,7 +127,7 @@ body {
 	background: url(../images/open64.png) no-repeat top right;
 }
 .open-status.icon-large.Unknown {
-	background: url(../images/unknown.png) no-repeat top right;
+	background: url(../images/open64.png) no-repeat top right;
 }
 
 .large-row {
@@ -160,7 +160,7 @@ body {
 
 #detail #header.open-status.mini.Unknown {
 	background: 
-		url(../images/unknown-mini.png) no-repeat 8px, 
+		url(../images/open-mini.png) no-repeat 8px, 
 		url(../images/ui-black.png) !important;
 }
 

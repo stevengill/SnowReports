@@ -7,17 +7,6 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 		<link href="stylesheets/snowreport.css" media="screen" rel="stylesheet" type="text/css" />
 		<link href="stylesheets/effect.css" media="screen" rel="stylesheet" type="text/css" />
-		<script>
-			var userAgent = navigator.userAgent;
-			if(userAgent.toLowerCase().search(/webos/)!=-1){
-				var head = document.getElementsByTagName("head")[0];
-				var script = document.createElement("script");
-				script.setAttribute("src", "/usr/palm/frameworks/mojo/mojo.js");
-				script.setAttribute("type", "text/javascript");
-				script.setAttribute("x-mojo-version", "1");
-				head.insertBefore(script, head.firstChild);
-			}
-		</script>
 		
 		<script language="javascript" type="text/javascript" src="js/utils/Const.js"></script>
 		<script language="javascript" type="text/javascript" src="js/utils/TConst.js"></script>
