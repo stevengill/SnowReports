@@ -229,6 +229,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -272,13 +274,12 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>7</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {186, 594}}</string>
+							<string>{{0, 0}, {186, 936}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -290,14 +291,14 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {203, 612}}</string>
+						<string>{{0, 0}, {203, 954}}</string>
 						<key>GroupTreeTableConfiguration</key>
 						<array>
 							<string>MainColumn</string>
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>-1251 118 1106 653 -1680 -150 1680 1050 </string>
+						<string>-1680 -95 1680 995 -1680 -150 1680 1050 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -325,7 +326,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>ED1AA6F611AC815600EF767B</string>
+										<string>ED1AA72711AF20B100EF767B</string>
 										<key>history</key>
 										<array>
 											<string>EDD7EAF611A1F41400D8E253</string>
@@ -344,18 +345,16 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {898, 382}}</string>
+								<string>{{0, 0}, {1472, 724}}</string>
 								<key>RubberWindowFrame</key>
-								<string>-1251 118 1106 653 -1680 -150 1680 1050 </string>
+								<string>-1680 -95 1680 995 -1680 -150 1680 1050 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>382pt</string>
+							<string>724pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -366,9 +365,9 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 387}, {898, 225}}</string>
+								<string>{{0, 729}, {1472, 225}}</string>
 								<key>RubberWindowFrame</key>
-								<string>-1251 118 1106 653 -1680 -150 1680 1050 </string>
+								<string>-1680 -95 1680 995 -1680 -150 1680 1050 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -377,7 +376,7 @@
 						</dict>
 					</array>
 					<key>Proportion</key>
-					<string>898pt</string>
+					<string>1472pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -538,7 +537,7 @@
 		<string>/Users/steven97_007/Documents/Repo/SnowReports/iphone/SnowReports/SnowReports.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>-1251 118 1106 653 -1680 -150 1680 1050 </string>
+	<string>-1680 -95 1680 995 -1680 -150 1680 1050 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

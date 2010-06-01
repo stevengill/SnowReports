@@ -43,7 +43,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					659,
+					1233,
 					20,
 					48,
 					43,
@@ -66,6 +66,7 @@
 		perUserProjectItems = {
 			ED1AA6F011AC7C4B00EF767B /* PBXTextBookmark */ = ED1AA6F011AC7C4B00EF767B /* PBXTextBookmark */;
 			ED1AA6F611AC815600EF767B /* PBXTextBookmark */ = ED1AA6F611AC815600EF767B /* PBXTextBookmark */;
+			ED1AA72711AF20B100EF767B /* PBXTextBookmark */ = ED1AA72711AF20B100EF767B /* PBXTextBookmark */;
 			EDD7EAF611A1F41400D8E253 = EDD7EAF611A1F41400D8E253 /* PBXTextBookmark */;
 			EDD7EBFD11A203D000D8E253 = EDD7EBFD11A203D000D8E253 /* PlistBookmark */;
 			EDD7EC4B11A20E8100D8E253 = EDD7EC4B11A20E8100D8E253 /* PlistBookmark */;
@@ -118,6 +119,16 @@
 		rLoc = 3944;
 		rType = 0;
 		vrLen = 1436;
+		vrLoc = 0;
+	};
+	ED1AA72711AF20B100EF767B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EDDC5F7B11A5B2CD00EEC066 /* index.html */;
+		name = "index.html: 64";
+		rLen = 0;
+		rLoc = 3499;
+		rType = 0;
+		vrLen = 2891;
 		vrLoc = 0;
 	};
 	ED2D09D7119A2CFD00523189 /* SnowReports */ = {
@@ -423,9 +434,9 @@
 		path = /Users/steven97_007/Documents/Repo/SnowReports/iphone/SnowReports/www/index.html;
 		sourceTree = "<absolute>";
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {837, 923}}";
-			sepNavSelRange = "{3944, 0}";
-			sepNavVisRange = "{0, 1436}";
+			sepNavIntBoundsRect = "{{0, 0}, {1411, 806}}";
+			sepNavSelRange = "{3499, 0}";
+			sepNavVisRange = "{0, 2891}";
 		};
 	};
 }
